@@ -1,0 +1,95 @@
+{
+  "personal": {
+    "name": "Zhang San",
+    "title": "Senior Full Stack Engineer",
+    "email": "zhangsan@example.com",
+    "phone": "+86 138-1234-5678",
+    "location": "Beijing",
+    "summary": "8 years of internet development experience, skilled in full stack development and system architecture design.",
+    "years_experience": "8",
+    "projects_count": "15",
+    "clients_count": "8"
+  },
+  "experience": [
+    {
+      "company": "ByteDance",
+      "position": "Senior Backend Engineer",
+      "start_date": "2021-03",
+      "end_date": null,
+      "description": "Optimized recommendation algorithm, improved user retention by 15%. Designed and implemented high-concurrency message queue system."
+    },
+    {
+      "company": "Alibaba",
+      "position": "Mid-level Full Stack Engineer",
+      "start_date": "2018-07",
+      "end_date": "2021-02",
+      "description": "Developed order management system, processing 100k+ orders daily. Optimized frontend performance, reduced page load time by 40%."
+    }
+  ],
+  "education": [
+    {
+      "school": "Tsinghua University",
+      "degree": "Master's",
+      "field": "Computer Science",
+      "graduation_date": "2018-06",
+      "gpa": "3.8/4.0"
+    },
+    {
+      "school": "Peking University",
+      "degree": "Bachelor's",
+      "field": "Computer Science",
+      "graduation_date": "2016-06",
+      "gpa": null
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": ["Java", "Python", "JavaScript", "Go"]
+    },
+    {
+      "category": "Frontend Frameworks",
+      "items": ["React", "Vue.js", "TypeScript"]
+    },
+    {
+      "category": "Backend Frameworks",
+      "items": ["Spring Boot", "Django", "FastAPI"]
+    },
+    {
+      "category": "Databases",
+      "items": ["MySQL", "Redis", "MongoDB", "PostgreSQL"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Recommendation System Platform",
+      "description": "Built large-scale recommendation system processing 100B+ requests daily",
+      "technologies": ["Java", "Spark", "Kafka", "Redis"],
+      "link": null
+    },
+    {
+      "name": "E-commerce Search Engine",
+      "description": "Developed distributed search engine supporting complex queries",
+      "technologies": ["Elasticsearch", "Node.js", "React"],
+      "link": null
+    }
+  ],
+  "services": [
+    {
+      "title": "Web 开发",
+      "description": "使用 React、Next.js、Node.js 等现代框架构建响应式、高性能的网站和 Web 应用。"
+    },
+    {
+      "title": "移动应用开发",
+      "description": "使用 React Native 或 Flutter 创建跨平台移动应用，提供原生般的用户体验。"
+    },
+    {
+      "title": "后端开发",
+      "description": "设计高效、安全的服务器架构，RESTful API 开发，数据库设计与优化。"
+    },
+    {
+      "title": "AI 应用",
+      "description": "集成 AI 能力到您的应用，实现智能功能，如聊天机器人、内容生成等。"
+    }
+  ]
+}

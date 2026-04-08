@@ -1,0 +1,34 @@
+Zhang San
+Senior Full Stack Engineer
+zhangsan@example.com | +86 138-1234-5678 | Beijing
+Professional Summary
+8 years of internet development experience, skilled in full stack development and system architecture
+design
+Work Experience
+ByteDance - Senior Backend Engineer
+Mar 2021 - Present
+ Optimized recommendation algorithm, improved user retention by 15%
+ Designed and implemented high-concurrency message queue system
+Alibaba - Mid-level Full Stack Engineer
+Jul 2018 - Feb 2021
+ Developed order management system, processing 100k+ orders daily
+ Optimized frontend performance, reduced page load time by 40%
+Education
+Tsinghua University - Master's | Computer Science | Jun 2018 | GPA: 3.8/4.0
+Peking University - Bachelor's | Computer Science | Jun 2016
+Skills
+Programming Languages
+Java, Python, JavaScript, Go
+Frontend Frameworks
+React, Vue.js, TypeScript
+Backend Frameworks
+Spring Boot, Django, FastAPI
+Databases
+MySQL, Redis, MongoDB, PostgreSQL
+Projects
+Recommendation System Platform | 2022
+Built large-scale recommendation system processing 100B+ requests daily | Tech: Java, Spark, Kafka,
+Redis
+E-commerce Search Engine | 2021
+Developed distributed search engine supporting complex queries | Tech: Elasticsearch, Node.js, React
+
